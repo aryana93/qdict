@@ -102,3 +102,7 @@ hr {
   display: block;
   text-align: center;
 }
+
+.base {
+  background-color: transparent;
+}
